@@ -1,5 +1,5 @@
 # 31.1 Javascript Promises
---
+
 This is the solution to the problem set for 31.1 Javascript Promises in the Node Fundamentals unit.
 
 ### Part 1: Number Facts
@@ -9,7 +9,7 @@ This is the solution to the problem set for 31.1 Javascript Promises in the Node
 
 3. Use the API to get 4 facts on your favorite number. Once you have them all, put them on the page. It’s okay if some of the facts are repeats.
 
---
+
 
 ### Part 2: Deck of Cards
 1. Make a request to the Deck of Cards API to request a single card from a newly shuffled deck. Once you have the card, console.log the value and the suit (e.g. “5 of spades”, “queen of diamonds”).
